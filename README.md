@@ -2,7 +2,7 @@
 
 ## How to edit the web page content
 
-This web site uses [Jekyll](https://jekyllrb.com) for generation of web pages from Markdown source, and [YAMT theme](http://jekyllthemes.org/themes/jekyll-yamt/) as lipstick. The pages are served via [GitHub pages](https://guides.github.com/features/pages/) at [(https://imfm-si.github.io/cimm-site/)](https://imfm-si.github.io/cimm-site/).
+This web site uses [Jekyll](https://jekyllrb.com) for generation of web pages from Markdown source, and [YAMT theme](http://jekyllthemes.org/themes/jekyll-yamt/) as lipstick. The pages are served via [GitHub pages](https://guides.github.com/features/pages/) at [(https://ul-fmf.github.io/mathematics-in-ljubljana/)](https://ul-fmf.github.io/mathematics-in-ljubljana/).
 
 The pages are written in the Markdown format and automatically translated to HTML by
 GitHub. Simply edit the Markdown files and use Git to push the changes back to the server.
