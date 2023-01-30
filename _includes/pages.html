@@ -1,3 +1,5 @@
+<ul>
 {% for item in site.data.pages.pages %}
-<li{% if item.url == page.url %} class="active"{% endif %} title="{{ page.url }}"><a href="{{ item.url | relative_url }}">{{ item.name }}</a></li>
+<li{% if item.url == page.url %} class="clicked"{% endif %} title="{{ page.url }}"><a href="{{ item.url | relative_url }}">{{ item.name }}</a></li>
 {% endfor %}
+</ul>

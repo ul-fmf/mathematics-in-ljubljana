@@ -3,8 +3,8 @@ analytics-id: #leave blank to not use Analytics
 
 #Subtitle
 subtitle:
-  active: false
-  text: ''
+  active: true
+  text: 'University of Ljubljana, Slovenia'
 
 #Nav 
 nav:
