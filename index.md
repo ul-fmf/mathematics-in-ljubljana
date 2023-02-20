@@ -10,4 +10,6 @@ The summer school Mathematics in Ljubljana 2023 will take place from ??? in Ljub
 The summer school is aimed at bachelor’s and master’s degree students of physics, although students outside of this scope will be considered under reasonable motivation. The summer school will be held entirely in English. There is no registration fee and we will provide free housing and meals for participants (plus some additional surprises …).
 
 Major topics covered:
-???
+
+- Algebra
+- Complex Analysis
