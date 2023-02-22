@@ -26,7 +26,10 @@ html {
     width: 900px;
     height: 250px;
     background-image: url('../img/header.jpg');
+    background-color: #ba232b;
     background-size: 60%;
+    background-position: top left;
+    background-repeat: no-repeat;
   }
   
   footer {
@@ -366,11 +369,10 @@ html {
 
 #site_title {
     float: right;
-    padding-left: 2em;
+    text-align: right;
+    padding-right: 2em;
     width: 45%;
     height: 250px;
-    background-color: #ba232b;
-    
 }
 
 #site_title a {
@@ -422,7 +424,7 @@ html {
   }
 
   #site_title {
-      padding-left: 1.5em;
+      padding-right: 1.5em;
       height: 100px;
   }
   
