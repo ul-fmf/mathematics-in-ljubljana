@@ -5,7 +5,7 @@ title: Apply
 
 # Apply
 
-All who wish to participate at the Mathematics in Ljubljana 2023 summer school should **fill out an [Application Form]([url-to-form](https://docs.google.com/forms/d/e/1FAIpQLSf4CwMT5MGevXPeJ4vMUixMHFFvM5eUsnfoIp1VhS17ti16AQ/viewform?usp=sf_link)) before the deadline of 1 May 2023**. Required documents include:
+All who wish to participate at the Mathematics in Ljubljana 2023 summer school should **fill out an [Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf4CwMT5MGevXPeJ4vMUixMHFFvM5eUsnfoIp1VhS17ti16AQ/viewform?usp=sf_link) before the deadline of 1 May 2023**. Required documents include:
 - a motivational letter (why you wish to apply), 
 - your CV, 
 - a letter of recommendation (which should be written and sent directly to mathematicsinljubljana@fmf.uni-lj.si by a professor at your local university or institution).
