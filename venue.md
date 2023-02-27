@@ -25,7 +25,3 @@ University of Ljubljana
 Faculty of Mathematics and Physics
 Jadranska ulica 19
 1000 Ljubljana, Slovenia
-
-### Contact
-
-???
