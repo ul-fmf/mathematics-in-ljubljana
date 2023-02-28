@@ -22,7 +22,7 @@ Walk to “Bavarski dvor” and take Bus No. 6 or 6B (“Dolgi most” or “Vna
 
 Housing is organized in “Hostel Tabor” located in an attractive downtown location. The hostel is within walking distance of the train station. To reach the Faculty of Mathematics and Physics, we recommend a short walk to the bus stop “Ajdovščina” and then continue with bus No. 6/6B to “Hajdrihova”. There is a 3 min walk to the Faculty of Mathematics and Physics.
 
-Open in Google Maps: [https://goo.gl/maps/bTwxdwGXuADmb5Q4A](https://goo.gl/maps/bTwxdwGXuADmb5Q4A)
+Directions in Google Maps: [https://goo.gl/maps/bTwxdwGXuADmb5Q4A](https://goo.gl/maps/bTwxdwGXuADmb5Q4A)
 
 ### From airport to Ljubljana
 
