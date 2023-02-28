@@ -33,13 +33,24 @@ html {
   }
   
   footer {
-    margin-bottom: 0;
+    margin-bottom: 1em;
     margin-top: 2.15em;
     border-top: 1px solid #C4C4C4;
     text-align: center;
     font-size: 0.7em;
     padding: 0.4em;
     clear: both;
+  }
+
+  footer div {
+    float: left;
+    min-width: 250px;
+    width: 30%;
+    height: 60px;
+  }
+
+  footer div.copyright {
+    float: right;
   }
   
   main {
@@ -197,8 +208,7 @@ html {
     padding-right: 1em;
   }
   
-  .copyright {
-    width: 200px;
+  .copyright, .contact {
     text-align: justify;
     padding-left: 1em;
   }
@@ -370,9 +380,11 @@ html {
 #site_title {
     float: right;
     text-align: right;
-    padding-right: 2em;
-    width: 45%;
+    padding: 0 2em;
+    max-width: 50%;
+    min-width: ;
     height: 250px;
+    background-color: #ba232b;
 }
 
 #site_title a {
@@ -396,6 +408,9 @@ html {
     margin-top: 0;
 }
 
+.clr {
+  clear: both;
+}
 
 @media handheld and (max-width: 900px), screen and (max-width: 900px) {
 
@@ -424,8 +439,8 @@ html {
   }
 
   #site_title {
-      padding-right: 1.5em;
-      height: 100px;
+    padding: 0 1em;
+    height: 100px;
   }
   
   #site_title a {
@@ -443,6 +458,10 @@ html {
   }
   #site_title h2 {
       font-size: 1.1em;
+  }
+
+  footer div.copyright {
+    float: left;
   }
   
   }
