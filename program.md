@@ -5,10 +5,25 @@ title: Program
 
 # Program
 
-The summer school will consist of 5 days (Monday to Friday). Morning will be devoted to two minicourses, namely: *Formalization of Mathematics* (given by Egbert Rijke) and *Introduction to Complex Dynamics* (given by Luka Boc Thaler). In the afternoons, research groups at the department will give a short presentation of their work and members. Research areas covered will be *Algebra, Complex Analysis, Discrete Mathematics, Functional Analysis, Numerical Linear Algebra, Probability, Topology, Type Theory*.
+Our summer school is a five-day program (Monday to Friday) packed with stimulating mathematical content and enriching cultural experiences. 
 
-In addition to the mathematical content, we will provide detailed information on the following topics: description of the master's and doctoral programmes (including the possibility of obtaining a double degree with the University of Trieste for master's students), details on arrival, accommodation, and study in Ljubljana, and first-hand information on living and studying in Ljubljana from existing foreign master's and doctoral students.
+Our mornings will be dedicated to two minicourses:
+- Egbert Rijke: *Formalization of Mathematics*
+- Luka Boc Thaler: *Introduction to Complex Dynamics*
 
-On the first day of the school, we will organize a guided tour of Ljubljana, and on Wednesday, we will organize an excursion to Bled. Participants will have the opportunity to visit the memorial room of the first rector of the University of Ljubljana and mathematician Josip Plemelj and learn about his life and work.
+In the afternoons, attendees will have the opportunity to learn about the exciting research conducted by various local research groups, covering the following areas:
+- Algebra and Functional Analysis
+- Complex Analysis
+- Discrete Mathematics
+- Foundations of Mathematics and Theoretical Computer Science
+- Geometric Topology
+- Geometry
+- Numerical Analysis
+- Probability, Statistics and Financial Mathematics
+- Topology
 
-More details will follow.
+In addition to the mathematical content, we will also provide valuable information on master's and doctoral programs, including the possibility of obtaining a double degree with the University of Trieste for master's students. We will also offer details on arrival, accommodation, and studying in Ljubljana, as well as insights from current foreign master's and doctoral students on living and studying in the city.
+
+Throughout the week, we will also organize exciting cultural activities, including a guided tour of Ljubljana on the first day and an excursion to Bled on Wednesday. Participants will have the opportunity to visit the memorial room of the first rector of the University of Ljubljana and renowned mathematician Josip Plemelj and learn about his life and work.
+
+More details will follow. Stay tuned.
