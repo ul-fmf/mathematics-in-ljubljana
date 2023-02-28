@@ -21,7 +21,7 @@ From the Ljubljana Airport, you can take either bus to the Ljubljana main statio
 
 ### Address
 
-University of Ljubljana
-Faculty of Mathematics and Physics
-Jadranska ulica 19
+University of Ljubljana,
+Faculty of Mathematics and Physics,
+Jadranska ulica 19,
 1000 Ljubljana, Slovenia
