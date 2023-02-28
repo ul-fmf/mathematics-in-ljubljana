@@ -9,6 +9,8 @@ Join us for a week of exciting mathematics at the summer school Mathematics in L
 
 In addition to an overview of the local research groups, we will offer two minicourses to delve deeper into specific topics, as well as plenty of social activities to help you make connections with fellow participants.
 
-Our summer school is designed for bachelor's and master's students of mathematics, although students outside of this scope will be considered under reasonable motivation. The summer school will be held entirely in English. 
+Our summer school is designed for motivated bachelor's and master's students of mathematics who are interested in pursuing a PhD or furthering their academic career in mathematics. However, we welcome applications from students outside of this scope who can demonstrate reasonable motivation for attending.
 
-Best of all, there's no registration fee and we are providing free housing and meals for participants. Come and explore mathematics in one of Europe's most beautiful cities. Apply now!
+The summer school will be held entirely in English. There's no registration fee and we are providing free housing and meals for participants. 
+
+Come and explore mathematics in one of Europe's most beautiful cities. Apply now!
