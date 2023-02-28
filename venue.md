@@ -5,6 +5,13 @@ title: Venue
 
 # Venue
 
+## Address
+
+University of Ljubljana,
+Faculty of Mathematics and Physics,
+Jadranska ulica 19,
+1000 Ljubljana, Slovenia
+
 ## How to get here
 
 ### With bus from main train/bus station
@@ -18,10 +25,3 @@ Housing is organized in “Hostel Tabor” located in an attractive downtown loc
 ### From airport to Ljubljana
 
 From the Ljubljana Airport, you can take either bus to the Ljubljana main station or a shuttle. More info is available on the webpage [https://www.lju-airport.si/en/transport/](https://www.lju-airport.si/en/transport/).
-
-### Address
-
-University of Ljubljana,
-Faculty of Mathematics and Physics,
-Jadranska ulica 19,
-1000 Ljubljana, Slovenia
