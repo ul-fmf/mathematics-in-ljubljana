@@ -24,7 +24,7 @@ owner:
   name: Urban Jezernik
   email: mathematicsinljubljana@fmf.uni-lj.si
 description: 
-baseurl: "/mathematics-in-ljubljana" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://ul-fmf.github.io
 
 locale: en
