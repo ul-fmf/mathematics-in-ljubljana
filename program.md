@@ -5,7 +5,7 @@ title: Program
 
 # Program
 
-Our summer school is a five-day program (Monday to Friday) packed with stimulating mathematical content and enriching cultural experiences. 
+Our summer school is a five-day program (Monday to Friday, Sunday and Saturday are arrival and departure days) packed with stimulating mathematical content and enriching cultural experiences.
 
 Our mornings will be dedicated to two minicourses:
 - Egbert Rijke: *Formalization of Mathematics*
