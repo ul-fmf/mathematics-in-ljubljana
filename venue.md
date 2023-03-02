@@ -9,15 +9,15 @@ Housing is organized in “Hostel Tabor” located in an attractive downtown loc
 
 ## Address
 
-Hostel Tabor,
-Kotnikova ulica 4,
+Hostel Tabor  
+Kotnikova ulica 4  
 1000 Ljubljana, Slovenia
 
 ## Contact information
 
-[https://hostel.ddt.si/](https://hostel.ddt.si/)
-[info@ddt.si](mailto:info@ddt.si)
-+386 (0)1 2348840
+[https://hostel.ddt.si/](https://hostel.ddt.si/)  
+[info@ddt.si](mailto:info@ddt.si)  
++386 (0)1 2348840  
 +386 (0)41 359 977
 
 # Venue
@@ -26,10 +26,10 @@ The summer school will take place at the Faculty of Mathematics and Physics in t
 
 ## Address 
 
-University of Ljubljana,
-Faculty of Mathematics and Physics,
-Department of Mathematics,
-Jadranska ulica 21,
+University of Ljubljana  
+Faculty of Mathematics and Physics  
+Department of Mathematics  
+Jadranska ulica 21  
 1000 Ljubljana, Slovenia
 
 ## How to get here
