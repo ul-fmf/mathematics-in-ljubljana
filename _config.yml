@@ -25,7 +25,7 @@ owner:
   email: mathematicsinljubljana@fmf.uni-lj.si
 description: 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://ul-fmf.github.io
+url: https://mathematicsinljubljana.fmf.uni-lj.si
 
 locale: en
 
