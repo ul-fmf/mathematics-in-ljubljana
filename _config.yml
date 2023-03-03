@@ -31,8 +31,10 @@ locale: en
 
 # Build settings
 # theme: jekyll-yamt
+
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 sass:
   sass_dir: _sass
