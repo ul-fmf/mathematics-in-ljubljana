@@ -16,7 +16,6 @@ In the afternoons, attendees will have the opportunity to learn about the exciti
 - Complex Analysis
 - Discrete Mathematics
 - Foundations of Mathematics and Theoretical Computer Science
-- Geometric Topology
 - Geometry
 - Numerical Analysis
 - Probability, Statistics and Financial Mathematics
