@@ -16,4 +16,4 @@ The summer school will be held entirely in English. There's no registration fee 
 Come and explore mathematics in one of Europe's most beautiful cities. Apply now!
 
 
-*Interested in physics? Check out our sister school (Physics in Ljubljana 2023)[http://physicsinljubljana.fmf.uni-lj.si]!*
+*Interested in physics? Check out our sister school [Physics in Ljubljana 2023](http://physicsinljubljana.fmf.uni-lj.si)!*
