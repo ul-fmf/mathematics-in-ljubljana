@@ -5,7 +5,7 @@ title: Program
 
 # Timetable
 
-<table>
+<table class="timetable">
   <thead>
     <tr>
       <th>&nbsp;</th>
@@ -22,23 +22,23 @@ title: Program
       <td>Welcome session</td>
       <td>Info about bureaucracy (visa etc)</td>
       <td>Whole day tour to Bled</td>
-      <td style="background-color: rgb(244, 194, 197);">M:         Boc Thaler</td>
-      <td style="background-color: rgb(244, 194, 197);">M:         Boc Thaler</td>
+      <td class="minicourse">M:         Boc Thaler</td>
+      <td class="minicourse">M:         Boc Thaler</td>
     </tr>
     <tr>
       <td>10.30-11.30</td>
-      <td style="background-color: rgb(244, 194, 197);">M:         Rijke</td>
-      <td style="background-color: rgb(244, 194, 197);">M:         Rijke</td>
+      <td class="minicourse">M:         Rijke</td>
+      <td class="minicourse">M:         Rijke</td>
       <td>&nbsp;</td>
-      <td style="background-color: rgb(244, 194, 197);">M:         Boc Thaler</td>
-      <td style="background-color: rgb(244, 194, 197);">M:         Boc Thaler</td>
+      <td class="minicourse">M:         Boc Thaler</td>
+      <td class="minicourse">M:         Boc Thaler</td>
     </tr>
     <tr>
       <td>11.30-12.30</td>
-      <td style="background-color: rgb(244, 194, 197);">M:         Rijke</td>
-      <td style="background-color: rgb(244, 194, 197);">M:         Rijke</td>
+      <td class="minicourse">M:         Rijke</td>
+      <td class="minicourse">M:         Rijke</td>
       <td>&nbsp;</td>
-      <td style="background-color: rgb(217, 211, 213);">RG:             Discrete mathematics</td>
+      <td class="researchgroup">RG:             Discrete mathematics</td>
       <td>Talk with international students</td>
     </tr>
     <tr>
@@ -51,24 +51,24 @@ title: Program
     </tr>
     <tr>
       <td>13.30-14.30</td>
-      <td style="background-color: rgb(217, 211, 213);">RG:             Topology</td>
+      <td class="researchgroup">RG:             Topology</td>
       <td>Info about PhD, MSc programme</td>
       <td>&nbsp;</td>
-      <td style="background-color: rgb(217, 211, 213);">RG:             Algebra</td>
-      <td style="background-color: rgb(217, 211, 213);">RG:             Complex analysis</td>
+      <td class="researchgroup">RG:             Algebra</td>
+      <td class="researchgroup">RG:             Complex analysis</td>
     </tr>
     <tr>
       <td>14.30-15.30</td>
-      <td style="background-color: rgb(217, 211, 213);">RG:             Geometry</td>
-      <td style="background-color: rgb(217, 211, 213);">RG:             Numerical analysis</td>
+      <td class="researchgroup">RG:             Geometry</td>
+      <td class="researchgroup">RG:             Numerical analysis</td>
       <td>&nbsp;</td>
-      <td style="background-color: rgb(217, 211, 213);">RG:             Functional analysis</td>
-      <td style="background-color: rgb(217, 211, 213);">RG:             Probability and statistics</td>
+      <td class="researchgroup">RG:             Functional analysis</td>
+      <td class="researchgroup">RG:             Probability and statistics</td>
     </tr>
     <tr>
       <td>15.30-16.30</td>
       <td>&nbsp;</td>
-      <td style="background-color: rgb(217, 211, 213);">RG:             Foundations of mathematics</td>
+      <td class="researchgroup">RG:             Foundations of mathematics</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>Goodbye session</td>
