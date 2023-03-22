@@ -38,7 +38,7 @@ title: Program
       <td style="background-color: rgb(244, 194, 197);">M:         Rijke</td>
       <td style="background-color: rgb(244, 194, 197);">M:         Rijke</td>
       <td>&nbsp;</td>
-      <td>RG:             Discrete mathematics</td>
+      <td style="background-color: rgb(217, 211, 213);">RG:             Discrete mathematics</td>
       <td>Talk with international students</td>
     </tr>
     <tr>
@@ -51,24 +51,24 @@ title: Program
     </tr>
     <tr>
       <td>13.30-14.30</td>
-      <td>RG:             Topology</td>
+      <td style="background-color: rgb(217, 211, 213);">RG:             Topology</td>
       <td>Info about PhD, MSc programme</td>
       <td>&nbsp;</td>
-      <td>RG:             Algebra</td>
-      <td>RG:             Complex analysis</td>
+      <td style="background-color: rgb(217, 211, 213);">RG:             Algebra</td>
+      <td style="background-color: rgb(217, 211, 213);">RG:             Complex analysis</td>
     </tr>
     <tr>
       <td>14.30-15.30</td>
-      <td>RG:             Geometry</td>
-      <td>RG:             Numerical analysis</td>
+      <td style="background-color: rgb(217, 211, 213);">RG:             Geometry</td>
+      <td style="background-color: rgb(217, 211, 213);">RG:             Numerical analysis</td>
       <td>&nbsp;</td>
-      <td>RG:             Functional analysis</td>
-      <td>RG:             Probability and statistics</td>
+      <td style="background-color: rgb(217, 211, 213);">RG:             Functional analysis</td>
+      <td style="background-color: rgb(217, 211, 213);">RG:             Probability and statistics</td>
     </tr>
     <tr>
       <td>15.30-16.30</td>
       <td>&nbsp;</td>
-      <td>RG:             Foundations of mathematics</td>
+      <td style="background-color: rgb(217, 211, 213);">RG:             Foundations of mathematics</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>Goodbye session</td>
