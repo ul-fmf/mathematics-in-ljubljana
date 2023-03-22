@@ -194,6 +194,10 @@ html {
     background-color: rgb(240, 237, 238);
   }
 
+  .timetable {
+    font-size: 75%; 
+  }
+
   /* ZACETEK FOOTERJA */
   
   footer ul {
