@@ -20,7 +20,7 @@ title: Program
     <tr>
       <td>9.30-10.30</td>
       <td>Welcome session</td>
-      <td>Info about bureaucracy (visa etc)</td>
+      <td class="info">Info about bureaucracy (visa etc)</td>
       <td>Whole day tour to Bled</td>
       <td class="minicourse">M:         Boc Thaler</td>
       <td class="minicourse">M:         Boc Thaler</td>
@@ -39,7 +39,7 @@ title: Program
       <td class="minicourse">M:         Rijke</td>
       <td>&nbsp;</td>
       <td class="researchgroup">RG:             Discrete mathematics</td>
-      <td>Talk with international students</td>
+      <td class="info">Talk with international students</td>
     </tr>
     <tr>
       <td>12.30-13.30</td>
@@ -52,7 +52,7 @@ title: Program
     <tr>
       <td>13.30-14.30</td>
       <td class="researchgroup">RG:             Topology</td>
-      <td>Info about PhD, MSc programme</td>
+      <td class="info">Info about PhD, MSc programme</td>
       <td>&nbsp;</td>
       <td class="researchgroup">RG:             Algebra</td>
       <td class="researchgroup">RG:             Complex analysis</td>
