@@ -180,6 +180,16 @@ html {
   
   /* KONEC NAVIGACIJE */
   
+  /* TIMETABLE */
+
+  .timetable .minicourse {
+    background-color: rgb(244, 194, 197);  
+  }
+
+  .timetable .researchgroup {
+    background-color: rgb(217, 211, 213);
+  }
+
   /* ZACETEK FOOTERJA */
   
   footer ul {
