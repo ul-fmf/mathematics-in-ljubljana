@@ -36,7 +36,7 @@ title: Program
     <tr>
       <td>11.30-12.30</td>
       <td class="minicourse">Formalization of Mathematics</td>
-      <td class="minicourse"Formalization of Mathematics</td>
+      <td class="minicourse">Formalization of Mathematics</td>
       <td>&nbsp;</td>
       <td class="researchgroup">Discrete mathematics</td>
       <td class="info">Talk with international students</td>
