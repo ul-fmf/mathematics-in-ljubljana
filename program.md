@@ -5,17 +5,17 @@ title: Program
 
 # Timetable
 
-|             | Sunday 2/7  | Monday 3/7                                  | Tuesday 4/7                                | Wednesday 5/7          | Thursday 6/7                         | Friday 7/7                                  | Saturday 8/7  |
-|-------------|-------------|---------------------------------------------|--------------------------------------------|------------------------|--------------------------------------|---------------------------------------------|---------------|
-| 9.30-10.30  | Arrival day | Welcome session                             | Info about bureaucracy (visa etc)          | Whole day tour to Bled | Minicourse (Boc Thaler)              | Minicourse (Boc Thaler)                     | Departure day |
-| 10.30-11.30 |             | Minicourse (Rijke)                          | Minicourse (Rijke)                         |                        | Minicourse (Boc Thaler)              | Minicourse (Boc Thaler)                     |               |
-| 11.30-12.30 |             | Minicourse (Rijke)                          | Minicourse (Rijke)                         |                        | Research group (Discrete mathematics)| Talk with international students            |               |
-| 12.30-13.30 |             | Lunch                                       | Lunch                                      |                        | Lunch                                | Lunch                                       |               |
-| 13.30-14.30 |             | Research group (Topology)                   | Info about PhD, MSc programme              |                        | Research group (Algebra)             | Research group (Complex analysis)           |               |
-| 14.30-15.30 |             | Research group (Geometry)                   | Research group (Numerical analysis)        |                        | Research group (Functional analysis) | Research group (Probability and statistics) |               |
-| 15.30-16.30 |             |                                             | Research group (Foundations of mathematics)|                        |                                      | Goodbye session                             |               |
-| 16.30-18.30 |             | Walking tour of Ljubljana                   |                                            |                        |                                      |                                             |               |
-| 18.30-19.30 |             | Dinner                                      | Dinner                                     |                        | Dinner                               | Dinner                                      |               |
+|             | Monday 3/7                                  | Tuesday 4/7                                | Wednesday 5/7          | Thursday 6/7                         | Friday 7/7                                  | 
+|-------------|---------------------------------------------|--------------------------------------------|------------------------|--------------------------------------|---------------------------------------------|
+| 9.30-10.30  | Welcome session                             | Info about bureaucracy (visa etc)          | Whole day tour to Bled | M:         Boc Thaler                | M:         Boc Thaler                       | 
+| 10.30-11.30 | M:         Rijke                            | M:         Rijke                           |                        | M:         Boc Thaler                | M:         Boc Thaler                       | 
+| 11.30-12.30 | M:         Rijke                            | M:         Rijke                           |                        | RG:             Discrete mathematics | Talk with international students            | 
+| 12.30-13.30 | Lunch                                       | Lunch                                      |                        | Lunch                                | Lunch                                       | 
+| 13.30-14.30 | RG:             Topology                    | Info about PhD, MSc programme              |                        | RG:             Algebra              | RG:             Complex analysis            | 
+| 14.30-15.30 | RG:             Geometry                    | RG:             Numerical analysis         |                        | RG:             Functional analysis  | RG:             Probability and statistics  | 
+| 15.30-16.30 |                                             | RG:             Foundations of mathematics |                        |                                      | Goodbye session                             | 
+| 16.30-18.30 | Walking tour of Ljubljana                   |                                            |                        |                                      |                                             | 
+| 18.30-19.30 | Dinner                                      | Dinner                                     |                        | Dinner                               | Dinner                                      | 
 
 
 # Program
