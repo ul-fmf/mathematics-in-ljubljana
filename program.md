@@ -3,6 +3,21 @@ layout: page
 title: Program
 ---
 
+# Timetable
+
+|             | Sunday 2/7  | Monday 3/7                                  | Tuesday 4/7                                | Wednesday 5/7          | Thursday 6/7                         | Friday 7/7                                  | Saturday 8/7  |
+|-------------|-------------|---------------------------------------------|--------------------------------------------|------------------------|--------------------------------------|---------------------------------------------|---------------|
+| 9.30-10.30  | Arrival day | Welcome session                             | Info about bureaucracy (visa etc)          | Whole day tour to Bled | Minicourse (Boc Thaler)              | Minicourse (Boc Thaler)                     | Departure day |
+| 10.30-11.30 |             | Minicourse (Rijke)                          | Minicourse (Rijke)                         |                        | Minicourse (Boc Thaler)              | Minicourse (Boc Thaler)                     |               |
+| 11.30-12.30 |             | Minicourse (Rijke)                          | Minicourse (Rijke)                         |                        | Research group (Discrete mathematics)| Talk with international students            |               |
+| 12.30-13.30 |             | Lunch                                       | Lunch                                      |                        | Lunch                                | Lunch                                       |               |
+| 13.30-14.30 |             | Research group (Topology)                   | Info about PhD, MSc programme              |                        | Research group (Algebra)             | Research group (Complex analysis)           |               |
+| 14.30-15.30 |             | Research group (Geometry)                   | Research group (Numerical analysis)        |                        | Research group (Functional analysis) | Research group (Probability and statistics) |               |
+| 15.30-16.30 |             |                                             | Research group (Foundations of mathematics)|                        |                                      | Goodbye session                             |               |
+| 16.30-18.30 |             | Walking tour of Ljubljana                   |                                            |                        |                                      |                                             |               |
+| 18.30-19.30 |             | Dinner                                      | Dinner                                     |                        | Dinner                               | Dinner                                      |               |
+
+
 # Program
 
 Our summer school is a five-day program (Monday to Friday, Sunday and Saturday are arrival and departure days) packed with stimulating mathematical content and enriching cultural experiences.
@@ -24,5 +39,3 @@ In the afternoons, attendees will have the opportunity to learn about the exciti
 In addition to the mathematical content, we will also provide valuable information on master's and doctoral programs, including the possibility of obtaining a double degree with the University of Trieste for master's students. We will also offer details on arrival, accommodation, and studying in Ljubljana, as well as insights from current foreign master's and doctoral students on living and studying in the city.
 
 Throughout the week, we will also organize exciting cultural activities, including a guided tour of Ljubljana on the first day and an excursion to Bled on Wednesday. Participants will have the opportunity to visit the memorial room of the first rector of the University of Ljubljana and renowned mathematician Josip Plemelj and learn about his life and work.
-
-More details will follow. Stay tuned.
