@@ -190,6 +190,10 @@ html {
     background-color: rgb(217, 211, 213);
   }
 
+  .timetable .info {
+    background-color: rgb(240, 237, 238);
+  }
+
   /* ZACETEK FOOTERJA */
   
   footer ul {
