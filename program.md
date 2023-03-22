@@ -20,25 +20,25 @@ title: Program
     <tr>
       <td>9.30-10.30</td>
       <td>Welcome session</td>
-      <td class="info">Info about bureaucracy (visa etc)</td>
+      <td class="info">Bureaucracy (visa etc)</td>
       <td>Whole day tour to Bled</td>
-      <td class="minicourse">M:         Boc Thaler</td>
-      <td class="minicourse">M:         Boc Thaler</td>
+      <td class="minicourse">Introduction to Complex Dynamics</td>
+      <td class="minicourse">Introduction to Complex Dynamics</td>
     </tr>
     <tr>
       <td>10.30-11.30</td>
-      <td class="minicourse">M:         Rijke</td>
-      <td class="minicourse">M:         Rijke</td>
+      <td class="minicourse">Formalization of Mathematics</td>
+      <td class="minicourse">Formalization of Mathematics</td>
       <td>&nbsp;</td>
-      <td class="minicourse">M:         Boc Thaler</td>
-      <td class="minicourse">M:         Boc Thaler</td>
+      <td class="minicourse">Introduction to Complex Dynamics</td>
+      <td class="minicourse">Introduction to Complex Dynamics</td>
     </tr>
     <tr>
       <td>11.30-12.30</td>
-      <td class="minicourse">M:         Rijke</td>
-      <td class="minicourse">M:         Rijke</td>
+      <td class="minicourse">Formalization of Mathematics</td>
+      <td class="minicourse"Formalization of Mathematics</td>
       <td>&nbsp;</td>
-      <td class="researchgroup">RG:             Discrete mathematics</td>
+      <td class="researchgroup">Discrete mathematics</td>
       <td class="info">Talk with international students</td>
     </tr>
     <tr>
@@ -51,24 +51,24 @@ title: Program
     </tr>
     <tr>
       <td>13.30-14.30</td>
-      <td class="researchgroup">RG:             Topology</td>
-      <td class="info">Info about PhD, MSc programme</td>
+      <td class="researchgroup">Topology</td>
+      <td class="info">PhD, MSc programme</td>
       <td>&nbsp;</td>
-      <td class="researchgroup">RG:             Algebra</td>
-      <td class="researchgroup">RG:             Complex analysis</td>
+      <td class="researchgroup">Algebra</td>
+      <td class="researchgroup">Complex analysis</td>
     </tr>
     <tr>
       <td>14.30-15.30</td>
-      <td class="researchgroup">RG:             Geometry</td>
-      <td class="researchgroup">RG:             Numerical analysis</td>
+      <td class="researchgroup">Geometry</td>
+      <td class="researchgroup">Numerical analysis</td>
       <td>&nbsp;</td>
-      <td class="researchgroup">RG:             Functional analysis</td>
-      <td class="researchgroup">RG:             Probability and statistics</td>
+      <td class="researchgroup">Functional analysis</td>
+      <td class="researchgroup">Probability and statistics</td>
     </tr>
     <tr>
       <td>15.30-16.30</td>
       <td>&nbsp;</td>
-      <td class="researchgroup">RG:             Foundations of mathematics</td>
+      <td class="researchgroup">Foundations of mathematics</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>Goodbye session</td>
@@ -97,11 +97,14 @@ title: Program
 
 Our summer school is a five-day program (Monday to Friday, Sunday and Saturday are arrival and departure days) packed with stimulating mathematical content and enriching cultural experiences.
 
-Our mornings will be dedicated to two <span class="minicourse">Minicourses</span>:
+<span class="minicourse">
+Our mornings will be dedicated to two minicourses:
 - Egbert Rijke: *Formalization of Mathematics*
 - Luka Boc Thaler: *Introduction to Complex Dynamics*
+</span>
 
-In the afternoons, attendees will have the opportunity to learn about the exciting research conducted by various local <span class="researchgroup">Research Groups</span>, covering the following areas:
+<span class="researchgroup">
+In the afternoons, attendees will have the opportunity to learn about the exciting research conducted by various local research groups, covering the following areas:
 - Algebra and Functional Analysis
 - Complex Analysis
 - Discrete Mathematics
@@ -110,7 +113,10 @@ In the afternoons, attendees will have the opportunity to learn about the exciti
 - Numerical Analysis
 - Probability, Statistics and Financial Mathematics
 - Topology
+</span>
 
-In addition to the mathematical content, we will also provide valuable <span class="info">Information</span> on master's and doctoral programs, including the possibility of obtaining a double degree with the University of Trieste for master's students. We will also offer details on arrival, accommodation, and studying in Ljubljana, as well as insights from current foreign master's and doctoral students on living and studying in the city.
+<span class="info">
+In addition to the mathematical content, we will also provide valuable information on master's and doctoral programs, including the possibility of obtaining a double degree with the University of Trieste for master's students. We will also offer details on arrival, accommodation, and studying in Ljubljana, as well as insights from current foreign master's and doctoral students on living and studying in the city.
+</span>
 
 Throughout the week, we will also organize exciting cultural activities, including a guided tour of Ljubljana on the first day and an excursion to Bled on Wednesday. Participants will have the opportunity to visit the memorial room of the first rector of the University of Ljubljana and renowned mathematician Josip Plemelj and learn about his life and work.
