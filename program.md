@@ -22,21 +22,21 @@ title: Program
       <td>Welcome session</td>
       <td>Info about bureaucracy (visa etc)</td>
       <td>Whole day tour to Bled</td>
-      <td style="background-color: rgb(173, 53, 47);">M:         Boc Thaler</td>
-      <td style="background-color: rgb(173, 53, 47);">M:         Boc Thaler</td>
+      <td style="background-color: rgb(244, 194, 197);">M:         Boc Thaler</td>
+      <td style="background-color: rgb(244, 194, 197);">M:         Boc Thaler</td>
     </tr>
     <tr>
       <td>10.30-11.30</td>
-      <td style="background-color: rgb(173, 53, 47);">M:         Rijke</td>
-      <td style="background-color: rgb(173, 53, 47);">M:         Rijke</td>
+      <td style="background-color: rgb(244, 194, 197);">M:         Rijke</td>
+      <td style="background-color: rgb(244, 194, 197);">M:         Rijke</td>
       <td>&nbsp;</td>
-      <td style="background-color: rgb(173, 53, 47);">M:         Boc Thaler</td>
-      <td style="background-color: rgb(173, 53, 47);">M:         Boc Thaler</td>
+      <td style="background-color: rgb(244, 194, 197);">M:         Boc Thaler</td>
+      <td style="background-color: rgb(244, 194, 197);">M:         Boc Thaler</td>
     </tr>
     <tr>
       <td>11.30-12.30</td>
-      <td style="background-color: rgb(173, 53, 47);">M:         Rijke</td>
-      <td style="background-color: rgb(173, 53, 47);">M:         Rijke</td>
+      <td style="background-color: rgb(244, 194, 197);">M:         Rijke</td>
+      <td style="background-color: rgb(244, 194, 197);">M:         Rijke</td>
       <td>&nbsp;</td>
       <td>RG:             Discrete mathematics</td>
       <td>Talk with international students</td>
