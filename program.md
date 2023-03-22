@@ -3,6 +3,36 @@ layout: page
 title: Program
 ---
 
+# Program
+
+Our summer school is a five-day program (Monday to Friday, Sunday and Saturday are arrival and departure days) packed with stimulating mathematical content and enriching cultural experiences.
+
+<span class="minicourse">
+Our mornings will be dedicated to two minicourses:
+</span>
+
+- Egbert Rijke: *Formalization of Mathematics*
+- Luka Boc Thaler: *Introduction to Complex Dynamics*
+
+<span class="researchgroup">
+In the afternoons, attendees will have the opportunity to learn about the exciting research conducted by various local research groups, covering the following areas:
+</span>
+
+- Algebra and Functional Analysis
+- Complex Analysis
+- Discrete Mathematics
+- Foundations of Mathematics and Theoretical Computer Science
+- Geometry
+- Numerical Analysis
+- Probability, Statistics and Financial Mathematics
+- Topology
+
+<span class="info">
+In addition to the mathematical content, we will also provide valuable information on master's and doctoral programs, including the possibility of obtaining a double degree with the University of Trieste for master's students. We will also offer details on arrival, accommodation, and studying in Ljubljana, as well as insights from current foreign master's and doctoral students on living and studying in the city.
+</span>
+
+Throughout the week, we will also organize exciting cultural activities, including a guided tour of Ljubljana on the first day and an excursion to Bled on Wednesday. Participants will have the opportunity to visit the memorial room of the first rector of the University of Ljubljana and renowned mathematician Josip Plemelj and learn about his life and work.
+
 # Timetable
 
 <table class="timetable">
@@ -21,25 +51,25 @@ title: Program
       <td>9.30-10.30</td>
       <td>Welcome session</td>
       <td class="info">Bureaucracy (visa etc)</td>
-      <td>Whole day tour to Bled</td>
-      <td class="minicourse">Introduction to Complex Dynamics</td>
-      <td class="minicourse">Introduction to Complex Dynamics</td>
+      <td>Bled tour</td>
+      <td class="minicourse">Complex Dynamics</td>
+      <td class="minicourse">Complex Dynamics</td>
     </tr>
     <tr>
       <td>10.30-11.30</td>
-      <td class="minicourse">Formalization of Mathematics</td>
-      <td class="minicourse">Formalization of Mathematics</td>
+      <td class="minicourse">Formalization</td>
+      <td class="minicourse">Formalization</td>
       <td>&nbsp;</td>
-      <td class="minicourse">Introduction to Complex Dynamics</td>
-      <td class="minicourse">Introduction to Complex Dynamics</td>
+      <td class="minicourse">Complex Dynamics</td>
+      <td class="minicourse">Complex Dynamics</td>
     </tr>
     <tr>
       <td>11.30-12.30</td>
-      <td class="minicourse">Formalization of Mathematics</td>
-      <td class="minicourse">Formalization of Mathematics</td>
+      <td class="minicourse">Formalization</td>
+      <td class="minicourse">Formalization</td>
       <td>&nbsp;</td>
       <td class="researchgroup">Discrete mathematics</td>
-      <td class="info">Talk with international students</td>
+      <td class="info">Meet international students</td>
     </tr>
     <tr>
       <td>12.30-13.30</td>
@@ -75,7 +105,7 @@ title: Program
     </tr>
     <tr>
       <td>16.30-18.30</td>
-      <td>Walking tour of Ljubljana</td>
+      <td>Ljubljana tour</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -91,34 +121,3 @@ title: Program
     </tr>
   </tbody>
 </table>
-
-
-# Program
-
-Our summer school is a five-day program (Monday to Friday, Sunday and Saturday are arrival and departure days) packed with stimulating mathematical content and enriching cultural experiences.
-
-<span class="minicourse">
-Our mornings will be dedicated to two minicourses:
-</span>
-
-- Egbert Rijke: *Formalization of Mathematics*
-- Luka Boc Thaler: *Introduction to Complex Dynamics*
-
-<span class="researchgroup">
-In the afternoons, attendees will have the opportunity to learn about the exciting research conducted by various local research groups, covering the following areas:
-</span>
-
-- Algebra and Functional Analysis
-- Complex Analysis
-- Discrete Mathematics
-- Foundations of Mathematics and Theoretical Computer Science
-- Geometry
-- Numerical Analysis
-- Probability, Statistics and Financial Mathematics
-- Topology
-
-<span class="info">
-In addition to the mathematical content, we will also provide valuable information on master's and doctoral programs, including the possibility of obtaining a double degree with the University of Trieste for master's students. We will also offer details on arrival, accommodation, and studying in Ljubljana, as well as insights from current foreign master's and doctoral students on living and studying in the city.
-</span>
-
-Throughout the week, we will also organize exciting cultural activities, including a guided tour of Ljubljana on the first day and an excursion to Bled on Wednesday. Participants will have the opportunity to visit the memorial room of the first rector of the University of Ljubljana and renowned mathematician Josip Plemelj and learn about his life and work.
