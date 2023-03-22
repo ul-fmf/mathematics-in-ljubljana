@@ -99,12 +99,15 @@ Our summer school is a five-day program (Monday to Friday, Sunday and Saturday a
 
 <span class="minicourse">
 Our mornings will be dedicated to two minicourses:
+</span>
+
 - Egbert Rijke: *Formalization of Mathematics*
 - Luka Boc Thaler: *Introduction to Complex Dynamics*
-</span>
 
 <span class="researchgroup">
 In the afternoons, attendees will have the opportunity to learn about the exciting research conducted by various local research groups, covering the following areas:
+</span>
+
 - Algebra and Functional Analysis
 - Complex Analysis
 - Discrete Mathematics
@@ -113,7 +116,6 @@ In the afternoons, attendees will have the opportunity to learn about the exciti
 - Numerical Analysis
 - Probability, Statistics and Financial Mathematics
 - Topology
-</span>
 
 <span class="info">
 In addition to the mathematical content, we will also provide valuable information on master's and doctoral programs, including the possibility of obtaining a double degree with the University of Trieste for master's students. We will also offer details on arrival, accommodation, and studying in Ljubljana, as well as insights from current foreign master's and doctoral students on living and studying in the city.
