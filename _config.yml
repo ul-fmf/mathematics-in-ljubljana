@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mathematics in Ljubljana
+title: OLMU
 # Site owner
 owner:
-  name: Urban Jezernik
-  email: mathematicsinljubljana@fmf.uni-lj.si
+  name: Petkomat
+  email: petko@gmail.com
 description: 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: https://mathematicsinljubljana.fmf.uni-lj.si
+baseurl: "/mathematics-in-ljubljana" # the subpath of your site, e.g. /blog
+url: https://petkomat.github.io
 
 locale: en
 
