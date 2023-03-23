@@ -2,13 +2,17 @@
 
 ## How to edit the web page content
 
-This web site uses [Jekyll](https://jekyllrb.com) for generation of web pages from Markdown source, and [YAMT theme](http://jekyllthemes.org/themes/jekyll-yamt/) as lipstick. The pages are served via [GitHub pages](https://guides.github.com/features/pages/) at [(https://ul-fmf.github.io/mathematics-in-ljubljana/)](https://ul-fmf.github.io/mathematics-in-ljubljana/).
+This web site uses [Jekyll](https://jekyllrb.com) for generation of web pages from Markdown source, 
+and [YAMT theme](http://jekyllthemes.org/themes/jekyll-yamt/) as lipstick. 
+The pages are served via [GitHub pages](https://guides.github.com/features/pages/) 
+at [https://ul-fmf.github.io/olmu/](https://ul-fmf.github.io/olmu/).
 
 The pages are written in the Markdown format and automatically translated to HTML by
 GitHub. Simply edit the Markdown files and use Git to push the changes back to the server.
 The website always shows the contents of the `main` branch of the GitHub repository.
 
-You can **edit the `.md` files in GitHub's online editor** (just navigate to the file you want to edit), or locally on your machine (if you are comfortable with `git`):
+You can **edit the `.md` files in GitHub's online editor** (just navigate to the file you want to edit), 
+or locally on your machine (if you are comfortable with `git`):
 
 1. `git pull`
 2. Make changes to `.md` files (see below)
@@ -34,7 +38,7 @@ bare hands, you should just try
 With a bit of luck you've got Ruby installed so this command will do the right thing. The
 `bundle` command is part of the Ruby [Bundler](https://bundler.io) package manager. On a
 Mac it is available through [Homebrew](https://brew.sh).  On Linux it is available through
-your package manager, e.g. on Debian/Ubuntu `sudo apt install ruby-bundler ruby-dev'.
+your package manager, e.g. on Debian/Ubuntu `sudo apt install ruby-bundler ruby-dev`.
 
 Then to generate and serve the pages locally, run
 

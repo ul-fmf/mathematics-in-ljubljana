@@ -3,17 +3,17 @@ layout: page
 title: Home
 ---
 
-# Mathematics in Ljubljana 2023
+# Odprti laboratorij za matematiko v uporabi
 
-Join us for a week of exciting mathematics at the summer school Mathematics in Ljubljana 2023, taking place **from July 2nd to 8th, 2023 in Ljubljana, Slovenia**. Our goal is to introduce curious students to the most fascinating areas of mathematics studied in Ljubljana.
+Tole je na kratko o nas. Preverimo _ležeče_ in **odebeljeno**, morda ~prečrtano~ ali ~~prečrtano~~ besedilo.
 
-In addition to an overview of the local research groups, we will offer two minicourses to delve deeper into specific topics, as well as plenty of social activities to help you make connections with fellow participants.
+Kaj pa $2 + 2 = 4?$
 
-Our summer school is designed for motivated bachelor's and master's students of mathematics who are interested in pursuing a PhD or furthering their academic career in mathematics. However, we welcome applications from students outside of this scope who can demonstrate reasonable motivation for attending.
+Morebiti celo `int [] x = {1, 2, 3}` ali
 
-The summer school will be held entirely in English. There's no registration fee and we are providing free housing and meals for participants. 
+```
+def f(n):
+    return n if n > 3 else f(n + 2)
+```
 
-Come and explore mathematics in one of Europe's most beautiful cities. Apply now!
 
-
-*Interested in physics? Check out our sister school [Physics in Ljubljana 2023](http://physicsinljubljana.fmf.uni-lj.si)!*

@@ -1,7 +1,6 @@
 pages:
-  - {name: 'Home', url: '/'}
-  - {name: 'Apply', url: '/apply.html'}
-  - {name: 'Program', url: '/program.html'}
-  - {name: 'Venue', url: '/venue.html'}
-  - {name: 'Life in Ljubljana', url: '/ljubljana.html'}
-  - {name: 'Poster', url: '/poster.html'}
+  - {name: 'Domov', url: '/'}
+  - {name: 'Sodelovanja', url: '/sodelovanja.html'}
+  - {name: 'Interdisciplinarni članki', url: '/clanki.html'}
+  - {name: 'Prakse', url: '/prakse.html'}
+  - {name: 'Kontakt', url: '/kontakt.html'}
