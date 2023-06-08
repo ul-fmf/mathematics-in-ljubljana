@@ -3,9 +3,39 @@ layout: page
 title: Program
 ---
 
+# Program
+
+Our summer school is a five-day program (Monday to Friday, Sunday and Saturday are arrival and departure days) packed with stimulating mathematical content and enriching cultural experiences.
+
+<span class="minicourse">
+Our mornings will be dedicated to two minicourses:
+</span>
+
+- Egbert Rijke: *Formalization of Mathematics*
+- Luka Boc Thaler: *Introduction to Complex Dynamics*
+
+<span class="researchgroup">
+In the afternoons, attendees will have the opportunity to learn about the exciting research conducted by various local research groups, covering the following areas:
+</span>
+
+- Algebra and Functional Analysis
+- Complex Analysis
+- Discrete Mathematics
+- Foundations of Mathematics and Theoretical Computer Science
+- Geometry
+- Numerical Analysis
+- Probability, Statistics and Financial Mathematics
+- Topology
+
+<span class="info">
+In addition to the mathematical content, we will also provide valuable information on master's and doctoral programs, including the possibility of obtaining a double degree with the University of Trieste for master's students. We will also offer details on arrival, accommodation, and studying in Ljubljana, as well as insights from current foreign master's and doctoral students on living and studying in the city.
+</span>
+
+Throughout the week, we will also organize exciting cultural activities, including a guided tour of Ljubljana on the first day and an excursion to Bled on Wednesday. Participants will have the opportunity to visit the memorial room of the first rector of the University of Ljubljana and renowned mathematician Josip Plemelj and learn about his life and work.
+
 # Timetable
 
-<table>
+<table class="timetable">
   <thead>
     <tr>
       <th>&nbsp;</th>
@@ -20,26 +50,26 @@ title: Program
     <tr>
       <td>9.30-10.30</td>
       <td>Welcome session</td>
-      <td>Info about bureaucracy (visa etc)</td>
-      <td>Whole day tour to Bled</td>
-      <td>M:         Boc Thaler</td>
-      <td>M:         Boc Thaler</td>
+      <td class="info">Bureaucracy (visa etc)</td>
+      <td>Bled tour</td>
+      <td class="minicourse">Complex Dynamics</td>
+      <td class="minicourse">Complex Dynamics</td>
     </tr>
     <tr>
       <td>10.30-11.30</td>
-      <td>M:         Rijke</td>
-      <td>M:         Rijke</td>
+      <td class="minicourse">Formalization</td>
+      <td class="minicourse">Formalization</td>
       <td>&nbsp;</td>
-      <td>M:         Boc Thaler</td>
-      <td>M:         Boc Thaler</td>
+      <td class="minicourse">Complex Dynamics</td>
+      <td class="minicourse">Complex Dynamics</td>
     </tr>
     <tr>
       <td>11.30-12.30</td>
-      <td>M:         Rijke</td>
-      <td>M:         Rijke</td>
+      <td class="minicourse">Formalization</td>
+      <td class="minicourse">Formalization</td>
       <td>&nbsp;</td>
-      <td>RG:             Discrete mathematics</td>
-      <td>Talk with international students</td>
+      <td class="researchgroup">Discrete mathematics</td>
+      <td class="info">Meet international students</td>
     </tr>
     <tr>
       <td>12.30-13.30</td>
@@ -51,31 +81,31 @@ title: Program
     </tr>
     <tr>
       <td>13.30-14.30</td>
-      <td>RG:             Topology</td>
-      <td>Info about PhD, MSc programme</td>
+      <td class="researchgroup">Topology</td>
+      <td class="info">PhD, MSc programme</td>
       <td>&nbsp;</td>
-      <td>RG:             Algebra</td>
-      <td>RG:             Complex analysis</td>
+      <td class="researchgroup">Algebra</td>
+      <td class="researchgroup">Complex analysis</td>
     </tr>
     <tr>
       <td>14.30-15.30</td>
-      <td>RG:             Geometry</td>
-      <td>RG:             Numerical analysis</td>
+      <td class="researchgroup">Geometry</td>
+      <td class="researchgroup">Numerical analysis</td>
       <td>&nbsp;</td>
-      <td>RG:             Functional analysis</td>
-      <td>RG:             Probability and statistics</td>
+      <td class="researchgroup">Functional analysis</td>
+      <td class="researchgroup">Probability and statistics</td>
     </tr>
     <tr>
       <td>15.30-16.30</td>
       <td>&nbsp;</td>
-      <td>RG:             Foundations of mathematics</td>
+      <td class="researchgroup">Foundations of mathematics</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>Goodbye session</td>
     </tr>
     <tr>
       <td>16.30-18.30</td>
-      <td>Walking tour of Ljubljana</td>
+      <td>Ljubljana tour</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -91,26 +121,3 @@ title: Program
     </tr>
   </tbody>
 </table>
-
-
-# Program
-
-Our summer school is a five-day program (Monday to Friday, Sunday and Saturday are arrival and departure days) packed with stimulating mathematical content and enriching cultural experiences.
-
-Our mornings will be dedicated to two minicourses:
-- Egbert Rijke: *Formalization of Mathematics*
-- Luka Boc Thaler: *Introduction to Complex Dynamics*
-
-In the afternoons, attendees will have the opportunity to learn about the exciting research conducted by various local research groups, covering the following areas:
-- Algebra and Functional Analysis
-- Complex Analysis
-- Discrete Mathematics
-- Foundations of Mathematics and Theoretical Computer Science
-- Geometry
-- Numerical Analysis
-- Probability, Statistics and Financial Mathematics
-- Topology
-
-In addition to the mathematical content, we will also provide valuable information on master's and doctoral programs, including the possibility of obtaining a double degree with the University of Trieste for master's students. We will also offer details on arrival, accommodation, and studying in Ljubljana, as well as insights from current foreign master's and doctoral students on living and studying in the city.
-
-Throughout the week, we will also organize exciting cultural activities, including a guided tour of Ljubljana on the first day and an excursion to Bled on Wednesday. Participants will have the opportunity to visit the memorial room of the first rector of the University of Ljubljana and renowned mathematician Josip Plemelj and learn about his life and work.

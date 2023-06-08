@@ -191,6 +191,24 @@ html {
   
   /* KONEC NAVIGACIJE */
   
+  /* TIMETABLE */
+
+  .minicourse {
+    background-color: rgb(244, 194, 197);  
+  }
+
+  .researchgroup {
+    background-color: rgb(217, 211, 213);
+  }
+
+  .info {
+    background-color: rgb(240, 237, 238);
+  }
+
+  .timetable {
+    font-size: 75%; 
+  }
+
   /* ZACETEK FOOTERJA */
   
   footer ul {
