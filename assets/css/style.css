@@ -44,13 +44,24 @@ html {
 
   footer div {
     float: left;
-    min-width: 250px;
+    min-width: 200px;
+  }
+  
+  footer div.info {
+    float: left;
+    text-align: justify;
+    padding-left: 1em;
     width: 30%;
-    height: 60px;
   }
 
-  footer div.copyright {
+  footer div.logos {
+    text-align: right;
+    padding: 10px 0;
+    padding-right: 1em;
     float: right;
+  }
+  footer div.logos img {
+    margin-right: 2em;
   }
   
   main {
@@ -458,10 +469,6 @@ html {
   }
   #site_title h2 {
       font-size: 1.1em;
-  }
-
-  footer div.copyright {
-    float: left;
   }
   
   }
