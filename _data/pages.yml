@@ -2,3 +2,4 @@ pages:
   - {name: 'Home', url: '/'}
   - {name: 'Venue', url: '/venue.html'}
   - {name: 'Life in Ljubljana', url: '/ljubljana.html'}
+  - {name: 'Poster', url: '/poster.html'}
