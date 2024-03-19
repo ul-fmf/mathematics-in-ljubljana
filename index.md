@@ -15,7 +15,7 @@ The summer school will be held entirely in English. There's no registration fee 
 
 Come and explore mathematics in one of Europe's most beautiful cities. 
 
-_Applications will be open soon._
+<p>Come and explore mathematics in one of Europe’s most beautiful cities. <a href="/apply.html">Apply now!</a></p>
 
 
 *Interested in physics? Check out our sister school [Physics in Ljubljana 2024](http://physicsinljubljana.fmf.uni-lj.si)!*
