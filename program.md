@@ -11,8 +11,8 @@ Our summer school is a five-day program (Monday to Friday, Sunday and Saturday a
 Our mornings will be dedicated to two minicourses:
 </span>
 
-- Egbert Rijke: *Formalization of Mathematics*
-- Luka Boc Thaler: *Introduction to Complex Dynamics*
+- Blaž Jelenc: *Differential geometric design of mechanisms*
+- Jose Antonio Montero Aguilar: *Are your polyhedra the same as my polyhedra?*
 
 <span class="researchgroup">
 In the afternoons, attendees will have the opportunity to learn about the exciting research conducted by various local research groups, covering the following areas:
@@ -28,22 +28,22 @@ In the afternoons, attendees will have the opportunity to learn about the exciti
 - Topology
 
 <span class="info">
-In addition to the mathematical content, we will also provide valuable information on master's and doctoral programs, including the possibility of obtaining a double degree with the University of Trieste for master's students. We will also offer details on arrival, accommodation, and studying in Ljubljana, as well as insights from current foreign master's and doctoral students on living and studying in the city.
+Alongside mathematical content, we'll provide valuable insights into master's and doctoral programs, including the chance to pursue a double degree with the University of Trieste for master's students. Additionally, we'll offer information on arrival, accommodation, and studying in Ljubljana, along with perspectives from current foreign master's and doctoral students on life and academics in the city.
 </span>
 
-Throughout the week, we will also organize exciting cultural activities, including a guided tour of Ljubljana on the first day and an excursion to Bled on Wednesday. Participants will have the opportunity to visit the memorial room of the first rector of the University of Ljubljana and renowned mathematician Josip Plemelj and learn about his life and work.
+Throughout the week, we'll organize engaging cultural activities, starting with a guided tour of Ljubljana on the first day and an excursion to Bled on Wednesday. Participants can explore the memorial room of Josip Plemelj, the first rector of the University of Ljubljana and a renowned mathematician, to discover more about his life and contributions.
 
-# Timetable
+# Tentative timetable
 
 <table class="timetable">
   <thead>
     <tr>
       <th>&nbsp;</th>
-      <th>Monday 3/7</th>
-      <th>Tuesday 4/7</th>
-      <th>Wednesday 5/7</th>
-      <th>Thursday 6/7</th>
-      <th>Friday 7/7</th>
+      <th>Monday 1/7</th>
+      <th>Tuesday 2/7</th>
+      <th>Wednesday 3/7</th>
+      <th>Thursday 4/7</th>
+      <th>Friday 5/7</th>
     </tr>
   </thead>
   <tbody>
@@ -52,23 +52,23 @@ Throughout the week, we will also organize exciting cultural activities, includi
       <td>Welcome session</td>
       <td class="info">Bureaucracy (visa etc)</td>
       <td>Bled tour</td>
-      <td class="minicourse">Complex Dynamics</td>
-      <td class="minicourse">Complex Dynamics</td>
+      <td class="minicourse">Minicourse</td>
+      <td class="minicourse">Minicourse</td>
     </tr>
     <tr>
       <td>10.30-11.30</td>
-      <td class="minicourse">Formalization</td>
-      <td class="minicourse">Formalization</td>
+      <td class="minicourse">Minicourse</td>
+      <td class="minicourse">Minicourse</td>
       <td>&nbsp;</td>
-      <td class="minicourse">Complex Dynamics</td>
-      <td class="minicourse">Complex Dynamics</td>
+      <td class="minicourse">Minicourse</td>
+      <td class="minicourse">Minicourse</td>
     </tr>
     <tr>
       <td>11.30-12.30</td>
-      <td class="minicourse">Formalization</td>
-      <td class="minicourse">Formalization</td>
+      <td class="minicourse">Minicourse</td>
+      <td class="minicourse">Minicourse</td>
       <td>&nbsp;</td>
-      <td class="researchgroup">Discrete mathematics</td>
+      <td class="researchgroup">Research group presentation</td>
       <td class="info">Meet international students</td>
     </tr>
     <tr>
@@ -81,24 +81,24 @@ Throughout the week, we will also organize exciting cultural activities, includi
     </tr>
     <tr>
       <td>13.30-14.30</td>
-      <td class="researchgroup">Topology</td>
+      <td class="researchgroup">Research group presentation</td>
       <td class="info">PhD, MSc programme</td>
       <td>&nbsp;</td>
-      <td class="researchgroup">Algebra</td>
-      <td class="researchgroup">Complex analysis</td>
+      <td class="researchgroup">Research group presentation</td>
+      <td class="researchgroup">Research group presentation</td>
     </tr>
     <tr>
       <td>14.30-15.30</td>
-      <td class="researchgroup">Geometry</td>
-      <td class="researchgroup">Numerical analysis</td>
+      <td class="researchgroup">Research group presentation</td>
+      <td class="researchgroup">Research group presentation</td>
       <td>&nbsp;</td>
-      <td class="researchgroup">Functional analysis</td>
-      <td class="researchgroup">Probability and statistics</td>
+      <td class="researchgroup">Research group presentation</td>
+      <td class="researchgroup">Research group presentation</td>
     </tr>
     <tr>
       <td>15.30-16.30</td>
       <td>&nbsp;</td>
-      <td class="researchgroup">Foundations of mathematics</td>
+      <td class="researchgroup">Research group presentation</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>Goodbye session</td>

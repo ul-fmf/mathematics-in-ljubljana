@@ -5,3 +5,4 @@ _site
 .jekyll-cache
 .jekyll-metadata
 /images/.jekyll-metadata
+archive/
