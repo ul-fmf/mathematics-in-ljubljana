@@ -1,6 +1,5 @@
 pages:
   - {name: 'Home', url: '/'}
-  - {name: 'Apply', url: '/apply.html'}
   - {name: 'Program', url: '/program.html'}
   - {name: 'Venue', url: '/venue.html'}
   - {name: 'Life in Ljubljana', url: '/ljubljana.html'}
