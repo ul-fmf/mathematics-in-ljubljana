@@ -50,7 +50,7 @@ Throughout the week, we'll organize engaging cultural activities, starting with 
     <tr>
       <td>9.30-10.30</td>
       <td>Welcome session</td>
-      <td class="info">Info about bureaucracy (visa etc)</td>
+      <td class="info">Bureaucracy (visa etc)</td>
       <td>Bled tour</td>
       <td class="minicourse">Minicourse (Montero)</td>
       <td class="minicourse">Minicourse (Montero)</td>
@@ -69,7 +69,7 @@ Throughout the week, we'll organize engaging cultural activities, starting with 
       <td class="minicourse">Minicourse (Jelenc)</td>
       <td>&nbsp;</td>
       <td class="researchgroup">Research group (Algebra and Functional analysis)</td>
-      <td class="info">Talk with international students</td>
+      <td class="info">Meet international students</td>
     </tr>
     <tr>
       <td>12.30-13.30</td>
