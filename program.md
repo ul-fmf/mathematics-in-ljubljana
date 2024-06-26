@@ -33,7 +33,7 @@ Alongside mathematical content, we'll provide valuable insights into master's an
 
 Throughout the week, we'll organize engaging cultural activities, starting with a guided tour of Ljubljana on the first day and an excursion to Bled on Wednesday. Participants can explore the memorial room of Josip Plemelj, the first rector of the University of Ljubljana and a renowned mathematician, to discover more about his life and contributions.
 
-# Tentative timetable
+# Timetable
 
 <table class="timetable">
   <thead>
