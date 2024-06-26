@@ -50,26 +50,26 @@ Throughout the week, we'll organize engaging cultural activities, starting with 
     <tr>
       <td>9.30-10.30</td>
       <td>Welcome session</td>
-      <td class="info">Bureaucracy (visa etc)</td>
+      <td class="info">Info about bureaucracy (visa etc)</td>
       <td>Bled tour</td>
-      <td class="minicourse">Minicourse</td>
-      <td class="minicourse">Minicourse</td>
+      <td class="minicourse">Minicourse (Montero)</td>
+      <td class="minicourse">Minicourse (Montero)</td>
     </tr>
     <tr>
       <td>10.30-11.30</td>
-      <td class="minicourse">Minicourse</td>
-      <td class="minicourse">Minicourse</td>
+      <td class="minicourse">Minicourse (Jelenc)</td>
+      <td class="minicourse">Minicourse (Jelenc)</td>
       <td>&nbsp;</td>
-      <td class="minicourse">Minicourse</td>
-      <td class="minicourse">Minicourse</td>
+      <td class="minicourse">Minicourse (Montero)</td>
+      <td class="minicourse">Minicourse (Montero)</td>
     </tr>
     <tr>
       <td>11.30-12.30</td>
-      <td class="minicourse">Minicourse</td>
-      <td class="minicourse">Minicourse</td>
+      <td class="minicourse">Minicourse (Jelenc)</td>
+      <td class="minicourse">Minicourse (Jelenc)</td>
       <td>&nbsp;</td>
-      <td class="researchgroup">Research group presentation</td>
-      <td class="info">Meet international students</td>
+      <td class="researchgroup">Research group (Algebra and Functional analysis)</td>
+      <td class="info">Talk with international students</td>
     </tr>
     <tr>
       <td>12.30-13.30</td>
@@ -81,27 +81,27 @@ Throughout the week, we'll organize engaging cultural activities, starting with 
     </tr>
     <tr>
       <td>13.30-14.30</td>
-      <td class="researchgroup">Research group presentation</td>
-      <td class="info">PhD, MSc programme</td>
+      <td class="researchgroup">Research group (Probability and statistics)</td>
+      <td class="info">Research group (Discrete Mathematics)</td>
       <td>&nbsp;</td>
-      <td class="researchgroup">Research group presentation</td>
-      <td class="researchgroup">Research group presentation</td>
+      <td class="researchgroup">Research group (Complex Analysis)</td>
+      <td class="researchgroup">Research group (Geometry)</td>
     </tr>
     <tr>
       <td>14.30-15.30</td>
-      <td class="researchgroup">Research group presentation</td>
-      <td class="researchgroup">Research group presentation</td>
+      <td class="researchgroup">Research group (Foundations of Mathematics)</td>
+      <td class="researchgroup">Research group (Topology)</td>
       <td>&nbsp;</td>
-      <td class="researchgroup">Research group presentation</td>
-      <td class="researchgroup">Research group presentation</td>
+      <td class="researchgroup">Research group (Numerical Analysis)</td>
+      <td class="researchgroup">Goodbye session</td>
     </tr>
     <tr>
       <td>15.30-16.30</td>
       <td>&nbsp;</td>
-      <td class="researchgroup">Research group presentation</td>
+      <td class="researchgroup">Info about PhD, MSc programme</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>Goodbye session</td>
+      <td>&nbsp;</td>
     </tr>
     <tr>
       <td>16.30-18.30</td>
