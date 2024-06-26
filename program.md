@@ -97,7 +97,7 @@ Throughout the week, we'll organize engaging cultural activities, starting with 
     </tr>
     <tr>
       <td>15.30-16.30</td>
-      <td class="info">Info about PhD, MSc programme</td>
+      <td class="info">PhD, MSc programme</td>
       <td>&nbsp;</td>    
       <td>&nbsp;</td>
       <td>&nbsp;</td>
