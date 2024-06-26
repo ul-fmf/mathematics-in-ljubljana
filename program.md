@@ -82,7 +82,7 @@ Throughout the week, we'll organize engaging cultural activities, starting with 
     <tr>
       <td>13.30-14.30</td>
       <td class="researchgroup">Research group (Probability and statistics)</td>
-      <td class="info">Research group (Discrete Mathematics)</td>
+      <td class="researchgroup">Research group (Discrete Mathematics)</td>
       <td>&nbsp;</td>
       <td class="researchgroup">Research group (Complex Analysis)</td>
       <td class="researchgroup">Research group (Geometry)</td>
@@ -93,12 +93,12 @@ Throughout the week, we'll organize engaging cultural activities, starting with 
       <td class="researchgroup">Research group (Topology)</td>
       <td>&nbsp;</td>
       <td class="researchgroup">Research group (Numerical Analysis)</td>
-      <td class="researchgroup">Goodbye session</td>
+      <td>Goodbye session</td>
     </tr>
     <tr>
       <td>15.30-16.30</td>
-      <td>&nbsp;</td>
-      <td class="researchgroup">Info about PhD, MSc programme</td>
+      <td class="info">Info about PhD, MSc programme</td>
+      <td>&nbsp;</td>    
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
