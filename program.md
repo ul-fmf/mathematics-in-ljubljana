@@ -98,14 +98,14 @@ Throughout the week, we'll organize engaging cultural activities, starting with 
     <tr>
       <td>15.30-16.30</td>
       <td class="info">PhD, MSc programme</td>
-      <td>&nbsp;</td>    
+      <td>At 16:00: Ljubljana tour</td>    
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td>16.30-18.30</td>
-      <td>Ljubljana tour</td>
+      <td><s>Ljubljana tour</s></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
