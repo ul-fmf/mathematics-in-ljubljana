@@ -37,46 +37,46 @@ Throughout the week, we'll organize engaging cultural activities, starting with 
 
 # Timetable
 
-TBA
-<!---
+A tentative timetable can be found below, but there might still be small changes in the program.
+
 <table class="timetable">
   <thead>
     <tr>
       <th>&nbsp;</th>
-      <th>Monday 1/7</th>
-      <th>Tuesday 2/7</th>
-      <th>Wednesday 3/7</th>
-      <th>Thursday 4/7</th>
-      <th>Friday 5/7</th>
+      <th>Monday 30/6</th>
+      <th>Tuesday 1/7</th>
+      <th>Wednesday 2/7</th>
+      <th>Thursday 3/7</th>
+      <th>Friday 4/7</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>9.30-10.30</td>
+      <td>9.00-10.00</td>
       <td>Welcome session</td>
-      <td class="info">Bureaucracy (visa etc)</td>
-      <td>Bled tour</td>
-      <td class="minicourse">Minicourse (Montero)</td>
-      <td class="minicourse">Minicourse (Montero)</td>
+      <td class="minicourse">Minicourse 1</td>
+      <td class="minicourse">Minicourse 1</td>
+      <td class="minicourse">Minicourse 1</td>
+      <td class="minicourse">Minicourse 1</td>
     </tr>
     <tr>
-      <td>10.30-11.30</td>
-      <td class="minicourse">Minicourse (Jelenc)</td>
-      <td class="minicourse">Minicourse (Jelenc)</td>
-      <td>&nbsp;</td>
-      <td class="minicourse">Minicourse (Montero)</td>
-      <td class="minicourse">Minicourse (Montero)</td>
+      <td>10.15-11.15</td>
+      <td class="minicourse">Minicourse 2</td>
+      <td class="minicourse">Minicourse 2</td>
+      <td class="minicourse">Minicourse 2</td>
+      <td class="minicourse">Minicourse 2</td>
+      <td class="minicourse">Minicourse 2</td>
     </tr>
     <tr>
       <td>11.30-12.30</td>
-      <td class="minicourse">Minicourse (Jelenc)</td>
-      <td class="minicourse">Minicourse (Jelenc)</td>
+      <td class="minicourse">Minicourse 3</td>
+      <td class="minicourse">Minicourse 3</td>
       <td>&nbsp;</td>
-      <td class="researchgroup">Research group (Algebra and Functional analysis)</td>
-      <td class="info">Meet international students</td>
+      <td class="minicourse">Minicourse 3</td>
+      <td class="minicourse">Minicourse 3</td>
     </tr>
     <tr>
-      <td>12.30-13.30</td>
+      <td>12.30-14.00</td>
       <td>Lunch</td>
       <td>Lunch</td>
       <td>&nbsp;</td>
@@ -84,45 +84,28 @@ TBA
       <td>Lunch</td>
     </tr>
     <tr>
-      <td>13.30-14.30</td>
-      <td class="researchgroup">Research group (Probability and statistics)</td>
-      <td class="researchgroup">Research group (Discrete Mathematics)</td>
-      <td>&nbsp;</td>
-      <td class="researchgroup">Research group (Complex Analysis)</td>
-      <td class="researchgroup">Research group (Geometry)</td>
+      <td>14.00-15.30</td>
+      <td class="researchgroup">Research group presentations</td>
+      <td class="researchgroup">Tea session »What is mathematical research like?«</td>
+      <td>Bled trip</td>
+      <td class="info">Studing in Ljubljana and meet international students</td>
+      <td class="researchgroup">Research group presentations</td>
     </tr>
     <tr>
-      <td>14.30-15.30</td>
-      <td class="researchgroup">Research group (Foundations of Mathematics)</td>
-      <td class="researchgroup">Research group (Topology)</td>
+      <td>15.30-16.00</td>
       <td>&nbsp;</td>
-      <td class="researchgroup">Research group (Numerical Analysis)</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
       <td>Goodbye session</td>
     </tr>
     <tr>
-      <td>15.30-16.30</td>
-      <td class="info">PhD, MSc programme</td>
-      <td>At 16:00: Ljubljana tour</td>    
+      <td>&nbsp;</td>
+      <td>Ljubljana tour</td>
+      <td>&nbsp;</td>   
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>16.30-18.30</td>
-      <td><s>Ljubljana tour</s></td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>18.30-19.30</td>
-      <td>Dinner</td>
-      <td>Dinner</td>
-      <td>&nbsp;</td>
-      <td>Dinner</td>
-      <td>Dinner</td>
     </tr>
   </tbody>
-  -->
 </table>
