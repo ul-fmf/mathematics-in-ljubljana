@@ -61,7 +61,7 @@ A tentative timetable can be found below, but there might still be small changes
     </tr>
     <tr>
       <td>10.15-11.15</td>
-      <td>Introduction to all three minicourses</td>
+      <td>Introduction to all</td>
       <td class="minicourse">Minicourse 2</td>
       <td class="minicourse">Minicourse 2</td>
       <td class="minicourse">Minicourse 2</td>
@@ -69,7 +69,7 @@ A tentative timetable can be found below, but there might still be small changes
     </tr>
     <tr>
       <td>11.30-12.30</td>
-      <td>&nbsp;</td>
+      <td>three minicourses</td>
       <td class="minicourse">Minicourse 3</td>
       <td class="minicourse">Minicourse 3</td>
       <td class="minicourse">Minicourse 3</td>
