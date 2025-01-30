@@ -5,14 +5,15 @@ title: Program
 
 # Program
 
-Our summer school is a five-day program (Monday to Friday, Sunday and Saturday are arrival and departure days) packed with stimulating mathematical content and enriching cultural experiences.
+Our summer school is a five-day program (Monday to Friday, Sunday and Saturday are arrival and departure days) packed with stimulating mathematical content and enriching cultural experiences. Participants are advised to arrive to Ljubljana on Sunday, June 29th, and depart on Saturday, July 5th.
 
 <span class="minicourse">
-Our mornings will be dedicated to two minicourses:
+Our mornings will be dedicated to three minicourses:
 </span>
 
-- Blaž Jelenc: *Differential geometric design of mechanisms*
-- Jose Antonio Montero Aguilar: *Are your polyhedra the same as my polyhedra?*
+- Marjeta Kramar Fijavž: *Think positive: On positive matrices, operators, and semigroups*
+- Daniel Smertnig: *TBA*
+- Ada Šadl Praprotnik: *TBA*
 
 <span class="researchgroup">
 In the afternoons, attendees will have the opportunity to learn about the exciting research conducted by various local research groups, covering the following areas:
@@ -31,10 +32,13 @@ In the afternoons, attendees will have the opportunity to learn about the exciti
 Alongside mathematical content, we'll provide valuable insights into master's and doctoral programs, including the chance to pursue a double degree with the University of Trieste for master's students. Additionally, we'll offer information on arrival, accommodation, and studying in Ljubljana, along with perspectives from current foreign master's and doctoral students on life and academics in the city.
 </span>
 
-Throughout the week, we'll organize engaging cultural activities, starting with a guided tour of Ljubljana on the first day and an excursion to Bled on Wednesday. Participants can explore the memorial room of Josip Plemelj, the first rector of the University of Ljubljana and a renowned mathematician, to discover more about his life and contributions.
+Throughout the week, we'll organize engaging cultural activities, starting with a guided tour of Ljubljana on the first day and an excursion to Bled on Wednesday. 
+<!---Participants can explore the memorial room of Josip Plemelj, the first rector of the University of Ljubljana and a renowned mathematician, to discover more about his life and contributions.-->
 
 # Timetable
 
+TBA
+<!---
 <table class="timetable">
   <thead>
     <tr>
@@ -120,4 +124,5 @@ Throughout the week, we'll organize engaging cultural activities, starting with 
       <td>Dinner</td>
     </tr>
   </tbody>
+  -->
 </table>
