@@ -12,7 +12,7 @@ Our mornings will be dedicated to three minicourses:
 </span>
 
 - Marjeta Kramar Fijavž: *Think positive: On positive matrices, operators, and semigroups*
-- Daniel Smertnig: *TBA*
+- Daniel Smertnig: *Linear Recurrences: A Short Journey Across Number Theory, Dynamics, and Decidability* 
 - Ada Šadl Praprotnik: *TBA*
 
 <span class="researchgroup">
