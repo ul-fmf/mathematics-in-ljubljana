@@ -12,8 +12,7 @@ In addition to an overview of the local research groups, we will offer three min
 Our summer school is designed for motivated bachelor's and master's students of mathematics who are interested in pursuing master's or PhD studies at University of Ljubljana, visiting our University as a part of Erasmus exchange, or furthering their academic career in mathematics. However, we welcome applications from students outside of this scope who can demonstrate reasonable motivation for attending.
 
 The summer school will be held entirely in English. There's no registration fee and we are providing free housing, breakfast and lunch for participants. 
-
-Come and explore mathematics in one of Europe's most beautiful cities. 
+ 
 
 <p>Come and explore mathematics in one of Europe’s most beautiful cities. <a href="/apply.html">Apply now!</a></p>
 
