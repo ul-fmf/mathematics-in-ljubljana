@@ -13,7 +13,7 @@ Our mornings will be dedicated to three minicourses:
 
 - Marjeta Kramar Fijavž: *Think positive: On positive matrices, operators, and semigroups*
 - Daniel Smertnig: *Linear Recurrences: A Short Journey Across Number Theory, Dynamics, and Decidability* 
-- Ada Šadl Praprotnik: *TBA*
+- Ada Šadl Praprotnik: *From polynomial to rational: An introduction to Bézier curves, surfaces and splines*
 
 <span class="researchgroup">
 In the afternoons, attendees will have the opportunity to learn about the exciting research conducted by various local research groups, covering the following areas:
