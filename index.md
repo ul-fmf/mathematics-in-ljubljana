@@ -14,7 +14,7 @@ Our summer school is designed for motivated bachelor's and master's students of 
 The summer school will be held entirely in English. There's no registration fee and we are providing free housing, breakfast and lunch for participants. 
  
 
-<p>Come and explore mathematics in one of the Europe’s most beautiful cities. <a href="/apply.html">Apply now!</a></p>
+<p>Come and explore mathematics in one of Europe’s most beautiful cities. <a href="/apply.html">Apply now!</a></p>
 
 
 *Interested in physics? Check out our sister school [Physics in Ljubljana 2025](http://physicsinljubljana.fmf.uni-lj.si)!*
