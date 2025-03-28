@@ -87,7 +87,7 @@ A tentative timetable can be found below, but there might still be small changes
       <td>14.00-15.30</td>
       <td class="researchgroup">Research group presentations</td>
       <td class="researchgroup">Tea session »What is mathematical research like?«</td>
-      <td>Bled trip</td>
+      <td>Free afternoon</td>
       <td class="info">Studing in Ljubljana and meet international students</td>
       <td class="researchgroup">Research group presentations</td>
     </tr>
@@ -101,7 +101,7 @@ A tentative timetable can be found below, but there might still be small changes
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>Ljubljana tour</td>
+      <td>&nbsp;</td>
       <td>&nbsp;</td>   
       <td>&nbsp;</td>
       <td>&nbsp;</td>
