@@ -32,8 +32,8 @@ In the afternoons, attendees will have the opportunity to learn about the exciti
 Alongside mathematical content, we'll provide valuable insights into master's and doctoral programs, including the chance to pursue a double degree with the University of Trieste for master's students. Additionally, we'll offer information on arrival, accommodation, and studying in Ljubljana, along with perspectives from current foreign master's and doctoral students on life and academics in the city.
 </span>
 
-Throughout the week, we'll organize engaging cultural activities, starting with a guided tour of Ljubljana on the first day and an excursion to Bled on Wednesday. 
-<!---Participants can explore the memorial room of Josip Plemelj, the first rector of the University of Ljubljana and a renowned mathematician, to discover more about his life and contributions.-->
+<!---Throughout the week, we'll organize engaging cultural activities, starting with a guided tour of Ljubljana on the first day and an excursion to Bled on Wednesday. 
+Participants can explore the memorial room of Josip Plemelj, the first rector of the University of Ljubljana and a renowned mathematician, to discover more about his life and contributions.-->
 
 # Timetable
 
