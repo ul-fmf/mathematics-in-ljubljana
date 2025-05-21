@@ -99,13 +99,5 @@ A tentative timetable can be found below, but there might still be small changes
       <td class="researchgroup">Research group presentations</td>
       <td>Goodbye session</td>
     </tr>
-    <tr>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>   
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
   </tbody>
 </table>
