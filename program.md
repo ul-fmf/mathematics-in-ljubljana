@@ -84,19 +84,19 @@ A tentative timetable can be found below, but there might still be small changes
       <td>Lunch</td>
     </tr>
     <tr>
-      <td>14.00-15.30</td>
+      <td>14.00-15.00</td>
       <td class="researchgroup">Research group presentations</td>
-      <td class="researchgroup">Tea session »What is mathematical research like?«</td>
+      <td class="info">Studying in Ljubljana</td>
       <td>Free afternoon</td>
-      <td class="info">Studying in Ljubljana and meet international students</td>
       <td class="researchgroup">Research group presentations</td>
+      <td class="info">Meet international students</td>
     </tr>
     <tr>
-      <td>15.30-16.00</td>
+      <td>15.00-16.00</td>
+      <td class="researchgroup">Research group presentations</td>
+      <td class="researchgroup">Tea session »What is mathematical research like?«</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td class="researchgroup">Research group presentations</td>
       <td>Goodbye session</td>
     </tr>
     <tr>
