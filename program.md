@@ -41,5 +41,5 @@ A tentative timetable can be found below, but there might still be small changes
 
 				
 					
-<img src="https://github.com/user-attachments/assets/a9077d0d-ef0c-4643-9bf5-b89c11b5becd" width="500" />
+<img src="https://github.com/user-attachments/assets/a9077d0d-ef0c-4643-9bf5-b89c11b5becd" width="1000" />
 
