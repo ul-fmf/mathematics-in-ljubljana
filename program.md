@@ -39,10 +39,7 @@ Participants can explore the memorial room of Josip Plemelj, the first rector of
 
 A tentative timetable can be found below, but there might still be small changes in the program.
 
-					
-					
-![slika](https://github.com/user-attachments/assets/a9077d0d-ef0c-4643-9bf5-b89c11b5becd)
 				
 					
-
+<img src="https://github.com/user-attachments/assets/a9077d0d-ef0c-4643-9bf5-b89c11b5becd" width="500" />
 
