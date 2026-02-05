@@ -5,7 +5,7 @@ title: Home
 
 # Mathematics in Ljubljana 2025
 
-Join us for a week of exciting mathematics at the summer school Mathematics in Ljubljana 2025, taking place **from June 30th to July 4th, 2025 in Ljubljana, Slovenia**. Our goal is to introduce curious students to the most fascinating areas of mathematics studied in Ljubljana.
+Join us for a week of exciting mathematics at the summer school Mathematics in Ljubljana 2026, taking place **from June 29th to July 3th, 2026 in Ljubljana, Slovenia**. Our goal is to introduce curious students to the most fascinating areas of mathematics studied in Ljubljana.
 
 In addition to an overview of the local research groups, we will offer three minicourses to delve deeper into specific topics, as well as plenty of social activities to help you make connections with fellow participants.
 
