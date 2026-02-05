@@ -5,15 +5,12 @@ title: Program
 
 # Program
 
-Our summer school is a five-day program (Monday to Friday, Sunday and Saturday are arrival and departure days) packed with stimulating mathematical content and enriching cultural experiences. Participants are advised to arrive to Ljubljana on Sunday, June 29th, and depart on Saturday, July 5th.
+Our summer school is a five-day program (Monday to Friday, Sunday and Saturday are arrival and departure days) packed with stimulating mathematical content and enriching cultural experiences. Participants are advised to arrive to Ljubljana on Sunday, June 28th, and depart on Saturday, July 4th.
 
 <span class="minicourse">
-Our mornings will be dedicated to three minicourses:
+Our mornings will be dedicated to three minicourses. The topics will be announced soon.
 </span>
 
-- Marjeta Kramar Fijavž: *Think positive: On positive matrices, operators, and semigroups*
-- Daniel Smertnig: *Linear recurrences: A short journey across number theory, dynamics, and decidability* 
-- Ada Šadl Praprotnik: *From polynomial to rational: An introduction to Bézier curves, surfaces, and splines*
 
 <span class="researchgroup">
 In the afternoons, attendees will have the opportunity to learn about the exciting research conducted by various local research groups, covering the following areas:
@@ -37,7 +34,7 @@ Participants can explore the memorial room of Josip Plemelj, the first rector of
 
 # Timetable
 
-A tentative timetable can be found below, but there might still be small changes in the program.
+Last year's timetable can be found below. 
 
 				
 					
