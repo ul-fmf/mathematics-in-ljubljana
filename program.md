@@ -40,7 +40,7 @@ Participants can explore the memorial room of Josip Plemelj, the first rector of
 
 # Timetable
 
-This is the tentative schedule for 2026.s
+This is the tentative schedule for 2026.
 					
 <img src="https://github.com/ul-fmf/mathematics-in-ljubljana/blob/main/schedule%202026.png" width="750" />
 
