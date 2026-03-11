@@ -35,7 +35,7 @@ Jadranska ulica 21
 
 ### With bus from main train/bus station
 
-Walk to “Bavarski dvor” and take bus no. 6 or 6B (“Dolgi most” or “Vnanje gorice”) until stop “Hajdrihova”. There is a 3 min walk to the Faculty of Mathematics and Physics.
+Walk to “Bavarski dvor” and take bus no. 6 or 6B (“Dolgi most” or “Vnanje gorice”) to “Hajdrihova”. There is a 3-minute walk to the Faculty of Mathematics and Physics.
 
 ### From organized housing to the Faculty of Mathematics and Physics
 
