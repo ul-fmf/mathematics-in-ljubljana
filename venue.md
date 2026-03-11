@@ -5,20 +5,19 @@ title: Venue
 
 # Accommodation
 
-Housing is organized in “Hostel Tabor” located in an attractive downtown location. The hostel is within walking distance of both the train station and major tourist attractions. Most participants will be housed in twin rooms.
+Housing is organized in “Dijaški dom Ivana Cankarja” located in an attractive location close to the city centre. The hostel is within walking distance of both the train station (1.4 km) and major tourist attractions. Most participants will be housed in twin rooms.
 
 ## Address
 
-Hostel Tabor  
-Kotnikova ulica 4  
+Dijaški dom Ivana Cankarja
+Poljanska cesta 26
 1000 Ljubljana, Slovenia
 
 ## Contact information
 
-[https://hostel.ddt.si/](https://hostel.ddt.si/)  
-[info@ddt.si](mailto:info@ddt.si)  
-+386 (0)1 2348840  
-+386 (0)41 359 977
+[https://hostel.ddt.si/](https://dic.si/)  
+[hostel@dic.si](mailto:hostel@dic.si)  
++386 1 47 48 600
 
 # Venue
 
@@ -36,13 +35,13 @@ Jadranska ulica 21
 
 ### With bus from main train/bus station
 
-Walk to “Bavarski dvor” and take Bus No. 6 or 6B (“Dolgi most” or “Vnanje gorice”) until stop “Hajdrihova”. There is a 3 min walk to the Faculty of Mathematics and Physics.
+Walk to “Bavarski dvor” and take bus no. 6 or 6B (“Dolgi most” or “Vnanje gorice”) until stop “Hajdrihova”. There is a 3 min walk to the Faculty of Mathematics and Physics.
 
 ### From organized housing to the Faculty of Mathematics and Physics
 
-To reach the Faculty of Mathematics and Physics from Hostel Tabor, we recommend a short walk to the bus stop “Ajdovščina” and then continue with bus No. 6/6B to “Hajdrihova”. There is a 3 min walk to the Faculty of Mathematics and Physics.
+Bus No. 1 stops at "Jadranska", which is right next to the faculty. There are several buses close to Dijaški dom Ivana Cankarja that connect to bus no. 1 (nos. 2, 5, 13 and 20), or you can walk to the bus stop "Ajdovščina" (1.3 km). 
 
-Directions in Google Maps: [https://goo.gl/maps/bTwxdwGXuADmb5Q4A](https://goo.gl/maps/bTwxdwGXuADmb5Q4A)
+Directions in Google Maps: [https://maps.app.goo.gl/LESN9FKcXtuXY9tWA](https://maps.app.goo.gl/LESN9FKcXtuXY9tWA?g_st=aw)
 
 ### From airport to Ljubljana
 
