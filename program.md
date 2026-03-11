@@ -46,6 +46,6 @@ Last year's timetable can be found below. We expect this year's schedule to be s
 					
 			
 					
-<img src="https://github.com/user-attachments/assets/34297b7e-467f-4e48-af6c-00a6020d68ec" width="750" />
+<img src="https://github.com/user-attachments/assets/schedule 2026.png" width="750" />
 
 
