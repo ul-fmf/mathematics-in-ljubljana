@@ -40,7 +40,7 @@ Participants can explore the memorial room of Josip Plemelj, the first rector of
 
 # Timetable
 
-Last year's timetable can be found below. We expect this year's schedule to be similar.
+This is the tentative schedule for 2026.
 
 				
 					
