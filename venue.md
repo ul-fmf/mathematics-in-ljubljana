@@ -5,13 +5,13 @@ title: Venue
 
 # Accommodation
 
-Housing is organized in “Dijaški dom Ivana Cankarja” located in an attractive location close to the city centre. The hostel is within walking distance of both the train station (1.4 km) and major tourist attractions. Most participants will be housed in twin rooms.
+Housing is organized in “Dijaški dom Ivana Cankarja” in an attractive location close to the city centre. The hostel is within walking distance of both the train station (1.4 km) and major tourist attractions. Most participants will be housed in twin rooms.
 
 ## Address
 
-Dijaški dom Ivana Cankarja
-Poljanska cesta 26
-1000 Ljubljana, Slovenia
+Dijaški dom Ivana Cankarja  
+Poljanska cesta 26  
+1000 Ljubljana, Slovenia  
 
 ## Contact information
 
