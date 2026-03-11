@@ -46,6 +46,6 @@ This is the tentative schedule for 2026.
 					
 			
 					
-<img src="https://github.com/user-attachments/assets/schedule 2026.png" width="750" />
+<img src="https://github.com/user-attachments/schedule 2026.png" width="750" />
 
 
