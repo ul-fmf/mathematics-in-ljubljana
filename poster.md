@@ -5,6 +5,8 @@ title: Poster
 
 # Poster
 
+The poster will be available soon. The following is last year's poster.
+
 [Poster PDF (1.4MB)](/assets/poster2025-small.pdf)
 
 <!---
