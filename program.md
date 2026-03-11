@@ -9,12 +9,13 @@ Our summer school is a five-day program (Monday to Friday, Sunday and Saturday a
 
 <span class="minicourse">
 Our mornings will be dedicated to three minicourses:
+</span>
 
 - Machine learning for theorem proving in Lean (David E. Narváez, Ljupčo Todorovski)
 - Some aspects of  L^p theory for second-order elliptic operators (Oliver Dragičević)
 - Applications of generating function in probability (Mihael Perman)
 	
-</span>
+
 
 
 <span class="researchgroup">
