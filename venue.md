@@ -39,7 +39,7 @@ Walk to “Bavarski dvor” and take bus no. 6 or 6B (“Dolgi most” or “Vna
 
 ### From organized housing to the Faculty of Mathematics and Physics
 
-Bus No. 1 stops at "Jadranska", which is right next to the faculty. There are several buses close to Dijaški dom Ivana Cankarja that connect to bus no. 1 (nos. 2, 5, 13 and 20), or you can walk to the bus stop "Ajdovščina" (1.3 km). 
+Bus No. 1 stops at "Jadranska", which is right next to the faculty. There are several buses close to Dijaški dom Ivana Cankarja that connect to bus no. 1 (nos. 2, 5, 13 and 20), or you can walk to the bus stop "Konzorcij" (1.3 km). 
 
 Directions in Google Maps: [https://maps.app.goo.gl/LESN9FKcXtuXY9tWA](https://maps.app.goo.gl/LESN9FKcXtuXY9tWA?g_st=aw)
 
