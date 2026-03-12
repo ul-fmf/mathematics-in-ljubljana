@@ -15,7 +15,7 @@ Poljanska cesta 26
 
 ## Contact information
 
-[https://hostel.ddt.si/](https://dic.si/)  
+[https://dic.si/](https://dic.si/)  
 [hostel@dic.si](mailto:hostel@dic.si)  
 +386 1 47 48 600
 
