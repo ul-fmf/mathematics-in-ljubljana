@@ -5,7 +5,7 @@ title: Apply
 
 # Apply
 
-To apply for the Mathematics in Ljubljana 2026 summer school, you will have to **fill out the [Application Form](https://docs.google.com/forms/d/e/1FAIpQLSfeMKhIojS_t_gA1k5fVAh-y-u92IzfoODbJAVD9McxxmY2tg/viewform?usp=publish-editor) before the deadline of April 12th, 2026**. We require the following documents as part of your application:
+To apply for the Mathematics in Ljubljana 2026 summer school, you will have to **fill out the [Application Form](https://docs.google.com/forms/d/e/1FAIpQLSfeMKhIojS_t_gA1k5fVAh-y-u92IzfoODbJAVD9McxxmY2tg/viewform?usp=publish-editor) before the deadline of April 19th, 2026**. We require the following documents as part of your application:
 
 - A *Transcript of records*, i.e. an official document issued by your educational institution that records and summarizes your academic achievements during your studies. It should include courses that you have finished, grades you have received, and credits that you have earned. If you are currently a master's student you will also need to attach the transcript of records from your bachelor's studies. The transcript should be in English. If you cannot get an official English version, provide the original and an unofficial translation. Also provide an explanation of the grading system.
 - Your *CV*, highlighting your academic achievements, relevant coursework, and any research or work experience you may have.
