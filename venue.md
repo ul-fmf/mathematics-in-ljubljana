@@ -15,7 +15,7 @@ Poljanska cesta 26c
 
 ## Contact information
 
-[https://matickrasevec9.wixsite.com/c-punkt-hostel](website)  
+[website](https://matickrasevec9.wixsite.com/c-punkt-hostel)  
 [info@c-punkt-hostel.com](info@c-punkt-hostel.com)  
 +386 64 226 127
 
