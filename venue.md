@@ -9,7 +9,7 @@ Housing is organized in “Dijaški dom Ivana Cankarja” in an attractive locat
 
 ## Address
 
-C - Punkt Hostel
+C - Punkt Hostel 
 Poljanska cesta 26c  
 1000 Ljubljana, Slovenia  
 
