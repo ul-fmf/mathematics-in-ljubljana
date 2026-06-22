@@ -17,7 +17,7 @@ Poljanska cesta 26c
 
 [https://matickrasevec9.wixsite.com/c-punkt-hostel](website)  
 [info@c-punkt-hostel.com](info@c-punkt-hostel.com)  
-+386 1 47 48 600
++386 64 226 127
 
 # Venue
 
@@ -41,7 +41,7 @@ Walk to “Bavarski dvor” and take bus no. 6 or 6B (“Dolgi most” or “Vna
 
 Bus No. 1 stops at "Jadranska", which is right next to the faculty. There are several buses close to Dijaški dom Ivana Cankarja that connect to bus no. 1 (nos. 2, 5, 13 and 20), or you can walk to the bus stop "Konzorcij" (1.3 km). 
 
-Directions in Google Maps: [https://maps.app.goo.gl/LESN9FKcXtuXY9tWA](https://maps.app.goo.gl/LESN9FKcXtuXY9tWA?g_st=aw)
+Directions in Google Maps: [https://maps.app.goo.gl/6WpDgvReGUzBtLK47](hhttps://maps.app.goo.gl/6WpDgvReGUzBtLK47)
 
 ### From airport to Ljubljana
 
