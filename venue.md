@@ -9,14 +9,14 @@ Housing is organized in “Dijaški dom Ivana Cankarja” in an attractive locat
 
 ## Address
 
-Dijaški dom Ivana Cankarja  
-Poljanska cesta 26  
+C - Punkt Hostel
+Poljanska cesta 26c  
 1000 Ljubljana, Slovenia  
 
 ## Contact information
 
-[https://dic.si/](https://dic.si/)  
-[hostel@dic.si](mailto:hostel@dic.si)  
+[https://matickrasevec9.wixsite.com/c-punkt-hostel](website)  
+[info@c-punkt-hostel.com](info@c-punkt-hostel.com)  
 +386 1 47 48 600
 
 # Venue
