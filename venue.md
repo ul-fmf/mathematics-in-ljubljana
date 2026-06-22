@@ -5,11 +5,11 @@ title: Venue
 
 # Accommodation
 
-Housing is organized in “Dijaški dom Ivana Cankarja” in an attractive location close to the city centre. The hostel is within walking distance of both the train station (1.4 km) and major tourist attractions. Most participants will be housed in twin rooms.
+Housing is organized in C-Punkt Hostel in an attractive location close to the city centre. The hostel is within walking distance of both the train station (1.4 km) and major tourist attractions. Most participants will be housed in twin rooms.
 
 ## Address
 
-C - Punkt Hostel  
+C-Punkt Hostel  
 Poljanska cesta 26c  
 1000 Ljubljana, Slovenia  
 
