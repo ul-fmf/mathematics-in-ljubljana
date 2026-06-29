@@ -40,7 +40,7 @@ Participants can explore the memorial room of Josip Plemelj, the first rector of
 
 # Timetable
 
-This is the schedule for 2026.
+The summer school is held in lecture room 2.02, Jadranska ulica 21, second floor. This is the schedule for 2026. 
 
 <img src="https://raw.githubusercontent.com/ul-fmf/mathematics-in-ljubljana/main/schedule%202026.png" width="750">
 
